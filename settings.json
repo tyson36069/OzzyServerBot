@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+"server": {
     "ip": "OzzyOzzy.aternos.me",
     "port": 37854,
-    "version": "1.21.1",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
